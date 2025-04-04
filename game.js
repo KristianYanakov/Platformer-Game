@@ -91,7 +91,7 @@ let zombieT = new GroundEntity('zombie', 0, 0, 80, 110, "images/zombie.png", 5, 
 
 let blockT = new Block('box', 100, 100, 30, 30, "images/box.png")
 //blockT.blockType
-
+//Test 
 function update() {
     player.move()
     player.fall()
